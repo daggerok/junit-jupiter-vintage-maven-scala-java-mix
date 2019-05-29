@@ -15,10 +15,10 @@
 		<junit-jupiter.version>5.4.2</junit-jupiter.version>
 		<junit.version>4.12</junit.version>
 
-		<scala.version>2.12.3</scala.version>
-		<scala-maven-plugin.version>3.2.1</scala-maven-plugin.version>
-		<!--<scala.version>2.12.6</scala.version>
-		<scala-maven-plugin.version>4.0.2</scala-maven-plugin.version>-->
+		<!--<scala.version>2.12.3</scala.version>
+		<scala-maven-plugin.version>3.2.1</scala-maven-plugin.version>-->
+		<scala.version>2.12.6</scala.version>
+		<scala-maven-plugin.version>4.0.2</scala-maven-plugin.version>
 		<maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
 	</properties>
 
